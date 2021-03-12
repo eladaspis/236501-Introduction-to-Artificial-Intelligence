@@ -18,9 +18,9 @@ During the project, I used various algorithms like MinMax, AlphaBeta etc.
 
 ## Final Project
 
-The project deals with the classification of people (sick or not) according to given dataset
+The project deals with the classification of people (sick or not) according to given dataset.
 
-Topics: ID3, KNN, Random Forest
+Topics: Learning, ID3, KNN and Random Forest.
 
 [Link to the project](https://github.com/eladaspis/Introduction_to_Artificial_Intelligence/tree/main/Final%20Project)
 
