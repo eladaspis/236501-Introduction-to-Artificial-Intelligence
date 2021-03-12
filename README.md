@@ -22,6 +22,6 @@ The project deals with the classification of people (sick or not) according to g
 
 Topics: ID3, KNN, Random Forest
 
-[Link to the project](https://github.com/eladaspis/Introduction_to_Artificial_Intelligence/tree/main/Final Project)
+[Link to the project](https://github.com/eladaspis/Introduction_to_Artificial_Intelligence/tree/main/Final%20Project)
 
 Enjoy!
